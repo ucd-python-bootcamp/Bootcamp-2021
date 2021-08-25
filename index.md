@@ -1,8 +1,6 @@
 ## UC Davis Python Bootcamp 2021
 
-You can use the [editor on GitHub](https://github.com/ucd-python-bootcamp/UCD-Python-Bootcamp-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This three-day course is designed to prepare incoming graduate students with little to no coding experience for the coding demands that many graduate courses often require. The bootcamp will take place over September 15th-17th from 6:00pm-8:30pm on campus in the Chemistry Building, Room 172. Stay tuned for more information on how to sign up!
 
 ### Markdown
 
