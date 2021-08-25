@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## New Title
 
 You can use the [editor on GitHub](https://github.com/ucd-python-bootcamp/UCD-Python-Bootcamp-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
