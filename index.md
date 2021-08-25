@@ -4,6 +4,7 @@ This three-day course is designed to prepare incoming graduate students with lit
 
 Masks will be required!
 
+
 ### Signup
 
 To register for the bootcamp, please sign-up [here](https://docs.google.com/forms/d/e/1FAIpQLScVQWZqrfZfeg4A7ilOxLGS1ISckKNOM-5I5xRGz5Y61WWJLQ/).
