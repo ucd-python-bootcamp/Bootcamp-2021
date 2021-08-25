@@ -7,7 +7,7 @@ Masks will be required!
 
 ### Signup
 
-To register for the bootcamp, please sign-up [here](https://docs.google.com/forms/d/1vx4OIztsbECXP1IVfocsHuFJhJrjm4JPNt8EEJfW02c).
+To register for the bootcamp, please sign-up [here](https://docs.google.com/forms/d/1vx4OIztsbECXP1IVfocsHuFJhJrjm4JPNt8EEJfW02c/).
 
 Spots are limited so please plan on attending at least a one session when you register. Each session builds off the prior one, and we recommend going to all of them.
 
