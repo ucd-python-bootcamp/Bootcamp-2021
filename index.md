@@ -10,4 +10,4 @@ Masks will be required!
 We have limited capacity, please sign-up [here](https://docs.google.com/forms/d/1vx4OIztsbECXP1IVfocsHuFJhJrjm4JPNt8EEJfW02c/). You will be notified by a personal email if your registration is accepted. Spots are limited so please plan on attending at least a one session when you register. Each session builds off the prior one, and we recommend going to all of them.
 
 
-Stay tuned for more information!
+Stay tuned for more information and resources!
