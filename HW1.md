@@ -1,19 +1,23 @@
 ## Day 1 Homework
 
-Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games. 
+Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games and their latitudes and longitudes. 
 [test.csv](http://ucd-python-bootcamp.github.io/Bootcamp2021/Day1CountryInfo2018.csv) 
 
-Instructions:
+Initial Instructions:
   1. Download the csv file from the link above. 
-  2. Open up an empty Jupyter notebook. (Go [here](https://jupyter.org/try), click "Try Classic Notebook", wait for page to load, then go to "File", "New Notebook", "Python 3"
-  3. In your empty notebook, go to "File", then "Open". This will take you to a new page with a directory of all files in your Binder. Select the "Upload" button in the right corner.
-  4. Upload the csv file. It is now in your directory, and you can import data from it. 
+  2. Open a new [Google Colab notebook](https://colab.research.google.com/) and click on "New Notebook" in the bottom right corner.
+  3. Click the file icon on the left toolbar, then click on the upload icon (the button on the left).
+  4. Choose the new .csv file to upload in order to import the data.
   5. Here's the actual homework! 
   
+Assignment
   - Open the csv file and examine what's in it. What variable types are in here? Strings, floats, or integers? 
-  - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot. (_Note: you'll have to make all longitudes negative._)
-  - Your scatter plot should look vaguely like the outline of the US. Make sure Alaska is in the right place! If it's not, make sure you are plotting the correct x and y values.
-  - That's it! Congratulations, you finished your first Python assignment! 
+  - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot.
+    - The "with open" command demonstrated in lecture may be helpful
+  - Try to add the equator as well if you can. (Hint: the [plt.hlines](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hlines.html) function may be useful.
+  - The plot should somewhat look like a map of the world. Unfortunately Africa's representation at the Winter Olympics is quite low (partially due to the climate) so there are few points there.
+  - If you have time, attempt to add axis labels and a title as demonstrated in the lecture.
+  - Congrats! You are all done.
   
 ## Answer
 [Script](http://python-bootcamp-ucd.github.io/bootcamp2020/hw1.py)
