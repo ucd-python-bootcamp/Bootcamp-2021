@@ -1,4 +1,4 @@
-## Day 1 Homework (test)
+## Day 1 Homework
 
 Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games and their latitudes and longitudes. 
 [Day1CountryInfo2018.csv](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_files/Day1CountryInfo2018.csv) 
