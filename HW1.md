@@ -3,14 +3,14 @@
 Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games and their latitudes and longitudes. 
 [test.csv](http://ucd-python-bootcamp.github.io/Bootcamp2021/Day1CountryInfo2018.csv) 
 
-Initial Instructions:
+### Initial Instructions:
   1. Download the csv file from the link above. 
   2. Open a new [Google Colab notebook](https://colab.research.google.com/) and click on "New Notebook" in the bottom right corner.
   3. Click the file icon on the left toolbar, then click on the upload icon (the button on the left).
   4. Choose the new .csv file to upload in order to import the data.
   5. Here's the actual homework! 
   
-Assignment
+### Assignment
   - Open the csv file and examine what's in it. What variable types are in here? Strings, floats, or integers? 
   - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot.
     - The "with open" command demonstrated in lecture may be helpful
