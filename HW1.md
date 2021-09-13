@@ -20,6 +20,4 @@ Here is a csv file that contains all of the countires that competed in the 2018 
   - Congrats! You are all done.
   
 ## Answer
-[Script](http://python-bootcamp-ucd.github.io/bootcamp2020/hw1.py)
 
-[Plot](http://python-bootcamp-ucd.github.io/bootcamp2020/Day_1_HW_Answer.png)
