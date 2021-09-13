@@ -32,11 +32,12 @@ Note: We will be using Python 3 (the latest version of Python) for this workshop
   - Basic Plotting
   - Resources
 
+[Day 1 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW1)
 
 ## Additional Resources
 
 ### Downloading Python Offline
-One of the easiest ways to download python is through Anaconda. Anaconda is Python distribution that has extra feautres and package that make Python easier to use. 
+One of the easiest ways to download python is through Anaconda. Anaconda is a Python distribution that has extra feautres and package that make Python easier to use. 
 - [Anaconda Installation Documentation](https://docs.anaconda.com/anaconda/install/)
 - Find your operating system in the list, follow the instructions.
 - Find where your Anaconda-Navigator was installed located on your computer, open it.
