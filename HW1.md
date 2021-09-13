@@ -1,7 +1,7 @@
 ## Day 1 Homework
 
 Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games and their latitudes and longitudes. 
-[test.csv](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Day1CountryInfo2018.csv) 
+[Day1CountryInfo2018.csv](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Day1CountryInfo2018.csv) 
 
 ### Initial Instructions:
   1. Download the csv file from the link above. 
@@ -15,7 +15,7 @@ Here is a csv file that contains all of the countires that competed in the 2018 
   - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot.
     - The "with open" command demonstrated in lecture may be helpful
   - Try to add the equator as well if you can. (Hint: the [plt.hlines](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hlines.html) function may be useful.
-  - The plot should somewhat look like a map of the world. Unfortunately Africa's representation at the Winter Olympics is quite low (partially due to the climate) so there are few points there.
+  - The plot should somewhat look like a map of the world. Unfortunately Africa's representation at the Winter Olympics is quite low (partially due to the climate) so there are few countries there.
   - If you have time, attempt to add axis labels and a title as demonstrated in the lecture.
   - Congrats! You are all done.
   
