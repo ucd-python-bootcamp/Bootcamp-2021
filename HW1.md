@@ -1,7 +1,7 @@
 ## Day 1 Homework
 
-Here is a csv file with a list of US States, and the latitudes and longitudes of the state's centers. 
-[StateAndLocDataDay1.csv](http://python-bootcamp-ucd.github.io/bootcamp2020/StateAndLocDataDay1.csv) 
+Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games. 
+[StateAndLocDataDay1.csv](http://ucd-python-bootcamp.github.io/Bootcamp2021/HW_files/Day1CountryInfo2018.csv) 
 
 Instructions:
   1. Download the csv file from the link above. 
