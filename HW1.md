@@ -1,7 +1,7 @@
 ## Day 1 Homework
 
 Here is a csv file that contains all of the countires that competed in the 2018 Winter Olympic games and their latitudes and longitudes. 
-[test.csv](http://ucd-python-bootcamp.github.io/Bootcamp2021/Day1CountryInfo2018.csv) 
+[test.csv](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Day1CountryInfo.csv) 
 
 ### Initial Instructions:
   1. Download the csv file from the link above. 
