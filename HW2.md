@@ -14,7 +14,7 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
   - Open the csv file and examine what's in it. What variable types are in here? Strings, floats, or integers? 
   - In your Colab notebook, write a script that imports the data from the file to make a scatter plot.
   - As you parse the data, for each country you'll need to tally up the total medals. You will also need to calculate GDP per 5000 capita (GPD per 5000 people).
-    - What techniques that we have reviewed can we do to accomplish these?
+    - What techniques that we have reviewed can we use to accomplish these?
   - This time when you plot the data, color the countries according to number of medals won, and change the size of each point based on GPD per capita.
     - See the [plt.scatter documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html) to try to figure out how to implement this.
   - Add the equator to the plot as well.
