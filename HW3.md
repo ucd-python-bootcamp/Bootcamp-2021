@@ -21,14 +21,15 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
     - What should we input into the function (what goes in the parentheses)? What will be the output and how many should we expect?
   - Once you have successfully fit the function, we need to plot our results. Make a scatter plot with the x (GDP per capita) and y (medal total) values.
   - To the scatter plot, let's add our fit line. 
-    1. To do this you will need to write a linear function. Note, the order of the variables will be important.(see below)
-    2. Create a list of x values to plot (`np.linspace()` may be helpful) and input them into the function you just wrote.
-    3. Make sure you are using the slope and intercept generated from the `ss.linregress()`.
-    4. To make a line instead of a scatter plot, the `plt.plot()` function will be useful.
-      ```
-      def fit_eq(x, m, b):
-      return (m*x)+b
-      ```
+    1) To do this you will need to write a linear function. Note, the order of the variables will be important.
+       ```
+       def fit_eq(x, m, b):
+       return (m*x)+b
+       ```
+    2) Create a list of x values to plot (`np.linspace()` may be helpful) and input them into the function you just wrote.
+    3) Make sure you are using the slope and intercept generated from the `ss.linregress()`.
+    4) To make a line instead of a scatter plot, the `plt.plot()` function will be useful.
+
   - Print out the R squared value as well
   - No we have a visualization for the realtionship between GDP per capita and Olympic medals!
   - Repeat this process (you can copy and paste most of your work here and just change the data you use) for latitude and population.
