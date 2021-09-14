@@ -30,7 +30,7 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
     3) Make sure you are using the slope and intercept generated from the `ss.linregress()`.
     4) To make a line instead of a scatter plot, the `plt.plot()` function will be useful.
 
-  - Print out the R squared value as well
+  - Print out the R squared value as well.
   - No we have a visualization for the realtionship between GDP per capita and Olympic medals!
   - Repeat this process (you can copy and paste most of your work here and just change the data you use) for latitude and population.
   - Based on the results, which of these facotrs seems to be most impactful on Winter Olympic success?
