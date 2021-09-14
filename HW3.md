@@ -16,7 +16,6 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
   - Let's start with GDP per capita. There are many ways to do this next step, but one of the easiest is to import the `scipy.stats` package and use the `linregress()` function
     ```
     import scipy.stats as ss
-    
     ```
     - Take a look at the [documentation for linregress](https://docs.scipy.org/doc/scipy-0.19.0/reference/generated/scipy.stats.linregress.html). Particularly the examples may help.
     - What should we input into the function (what goes in the parentheses)? What will be the output and how many should we expect?
