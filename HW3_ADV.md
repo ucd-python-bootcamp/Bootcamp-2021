@@ -54,9 +54,9 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
       ```
       predictions = model.predict(X)
       ```
-      - If you use pandas there is a different way to call the data into `model.predict()` see if you can figure it out yourself or take a look at the answer key.
+      - If you use pandas there is a different way to call the data into `model.predict()` see if you can figure it out yourself (with the help of the internet) or take a look at the answer key.
     - Now print out the predictions along with the actual medal totals and see how well the model works! (Russia was the host country in 2014 so their number might look quite skewed).
     
-    - Congrats you have finished the most challenging part of this tutorial
+    - Congrats you have finished the most challenging part of this tutorial! Hopefully you have better understanding of libraries, classes, and how to teach yourself.
     
   
