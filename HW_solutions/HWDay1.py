@@ -27,7 +27,8 @@ with open (infile, 'r') as csv_file:
     #The following command processes that first line so when we loop over the rest it's not included
     headers = csv_file.readline()
     
-    #This loop will loop over every remaining line in the csv file. Each line contains a country name, latitude and longitude.
+    #This for loop will iterate over all of the lines in "csv_file" which we assigned all of the data in the file to
+    #ie, every iteration of the loop will be a different line
     for line in csv_file:
 
         #The split function will split up lines based on whatever you designate.
