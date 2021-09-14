@@ -1,6 +1,6 @@
 ## Day 2 Homework (Advanced)
 
-Here is a csv file that contains all of the countires that medalled in the 2018 Winter Olympic games, their latitudes and longitudes, medals won, GDP (2018), and population (2018). This time, we are going to plot the countries with more information to the plot.
+Here is a csv file that contains all of the countires that medalled in the 2018 Winter Olympic games, their latitudes and longitudes, medals won, GDP (2018), and population (2018). This time, we are going to plot the countries with more information.
 [Day2CountryInfo2018_ADV.csv](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_files/Day2CountryInfo2018_ADV.csv) 
 
 ### Initial Instructions:
