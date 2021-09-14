@@ -20,6 +20,6 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
   - Add the equator to the plot as well.
   - Congrats! You are all done.
   - The plot will have fewer points this time without the countires that did not medal, but contain more information about those countries. If you want a challenge, the advanced homework will add more complexity and the other countries!
-
+  - in Day 3 we will delve into using more libraries and do more data analysis.
   
 ## Answer
