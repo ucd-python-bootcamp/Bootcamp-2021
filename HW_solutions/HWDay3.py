@@ -34,7 +34,7 @@ with open (infile, 'r') as csv_file:
     #The following command processes that first line so when we loop over the rest it's not included
     header = csv_file.readline()
 
-    #This for loop loops over all of the lines in "csv_file" which we assigned all of the data in the file to
+    #This for loop will iterate over all of the lines in "csv_file" which we assigned all of the data in the file to
     for line in csv_file:
         
         #The split function will split up lines based on whatever you designate.
