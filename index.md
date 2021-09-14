@@ -7,7 +7,7 @@ This three-day course is designed to prepare incoming (or experienced) graduate 
 
 ## Signup
 
-Registration has concluded for the workshop this year. If you would still like to follow along, all of the lectures, discussion and homework will be posted here after each day.
+Registration has concluded for the workshop this year. If you would still like to follow along, all of the lectures, discussion and homework will be posted here after.
 
 
 ## Getting Started
@@ -18,7 +18,8 @@ Make sure you are logged-in on your browser with a Google account. [Cick here to
 
 Note: We will be using Python 3 (the latest version of Python) for this workshop.
 
-
+## Homework Project
+Python is very versatile in its applications. The homework will focus on implementing fundamentals introduced in the lectures, working with data, and accessing Python libraries. There will be two homework levels, a standard assignment and an advanced assignment for those that want a challenge. The overall goal of the assignments will be to process data from the 2018 Winter Olympic Games and analyze what factors contribute to success. With the tools we learn, we can even create a model that tries to predict Olympic success in other years!
 
 ## Agenda
 * Day 1
