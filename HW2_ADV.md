@@ -17,7 +17,7 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
     - What techniques that we have reviewed can we use to accomplish these?
   - We will be plotting the countries that did not medal at all in a different color scheme than the rest of the countries. As you parse the data you will need find a way to sort out countries that did not medal.
   - This time when you plot the data, color the countries according to number of medals won, and change the size of each point based on GPD per capita.
-    - See the [plt.scatter documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html) to try to figure out how to implement this.
+    - See the [plt.scatter() documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html) to try to figure out how to implement this.
     - For countries that did not medal, color them grey, but still change the size of the points with GDP per capita. (Hint: this may require a separate plt.scatter command)
   - Add the equator to the plot.
   - Congrats! You are all done.
