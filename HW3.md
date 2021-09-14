@@ -37,3 +37,5 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
   - Congrats, you've successfully learned to use Python to parse, plot, and statistically analyze data! This is the end of the Python Bootcamp base project.
 
 If you would like more of a challenge, see the [advanced Day 3 Homework](). There, we will fit a multivariable function and use that model to predict the outcome of other Olympics. We will also explore how to use the Pandas package as well.
+
+## Answer
