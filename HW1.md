@@ -12,7 +12,7 @@ Here is a csv file that contains all of the countires that competed in the 2018 
   
 ### Assignment
   - Open the csv file and examine what's in it. What variable types are in here? Strings, floats, or integers? 
-  - In your empty Jupyter notebook, write a script that imports the data from the file and makes a scatter plot.
+  - In your empty Colab notebook, write a script that imports the data from the file and makes a scatter plot.
     - The "with open" command demonstrated in lecture may be helpful
   - Try to add the equator as well if you can. (Hint: the [plt.hlines](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hlines.html) function may be useful.
   - The plot should somewhat look like a map of the world. Unfortunately Africa's representation at the Winter Olympics is quite low (partially due to the climate) so there are few countries there.
