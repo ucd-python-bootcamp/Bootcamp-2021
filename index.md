@@ -24,11 +24,9 @@ Python is very versatile in its applications. The homework will focus on impleme
 ## Agenda
 * Day 1
   - Introduction: What are Coding and Python?
-  - Variables
-  - Print
+  - Variables, basic operations and print
   - Lists
   - Loops
-  - Functions
   - NumPy
   - Basic Plotting
   - Resources
