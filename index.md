@@ -28,6 +28,7 @@ Python is very versatile in its applications. The homework will focus on impleme
   - Lists
   - Loops
   - NumPy
+  - Data Importing
   - Basic Plotting
   - Resources
 
