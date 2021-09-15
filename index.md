@@ -1,13 +1,13 @@
 # UC Davis Python Bootcamp 2021
 
-This three-day course is designed to prepare incoming (or experienced) graduate students with little to no coding experience for the coding demands that many graduate courses and research often require. The bootcamp will take place over **September 15th-17th from 6:30pm-8:30pm** on campus in the **Chemistry Building, Room 172**. This is a great opportunity to learn a new skill and meet other graduate students! Snacks and refreshments will be provided. Each session will begin with about an hour of demonstration to teach fundamental Python topics. This will be followed by time where students can work on an assignemnt with each other and ask questions to volunteer. The assignment each day will build off of the previous sessions so by the end yo uwill have a complete Python project!
+This three-day course is designed to prepare incoming (or experienced) graduate students with little to no coding experience for the coding demands that many graduate courses and research often require. The bootcamp will take place over **September 15th-17th from 6:30pm-8:30pm** on campus in the **Chemistry Building, Room 172**. This is a great opportunity to learn a new skill and meet other graduate students! Snacks and refreshments will be provided. Each session will begin with about an hour of demonstration to teach fundamental Python topics. This will be followed by time where students can work on an assignemnt with each other and ask questions to volunteers. The assignment each day will build off of the previous sessions so by the end you will have a complete Python project!
 
 **Masks will be required!**
 
 
 ## Signup
 
-Registration has concluded for the workshop this year. If you would still like to follow along, all of the lectures, discussion and homework will be posted here after.
+Registration has concluded for the workshop this year. If you would still like to follow along, all of the lectures, discussion, and homework will be posted here after.
 
 
 ## Getting Started
@@ -37,7 +37,7 @@ Python is very versatile in its applications. The homework will focus on impleme
 ## Additional Resources
 
 ### Downloading Python Offline
-One of the easiest ways to download python is through Anaconda. Anaconda is a Python distribution that has extra feautres and package that make Python easier to use. 
+One of the easiest ways to download python is through Anaconda. Anaconda is a Python distribution that has extra feautres and packages that make Python easier to use. 
 - [Anaconda Installation Documentation](https://docs.anaconda.com/anaconda/install/)
 - Find your operating system in the list, follow the instructions.
 - Find where your Anaconda-Navigator was installed located on your computer, open it.
