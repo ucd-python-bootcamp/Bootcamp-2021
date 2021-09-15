@@ -28,8 +28,8 @@ Python is very versatile in its applications. The homework will focus on impleme
   - Lists
   - Loops
   - NumPy
-  - Data Importing
   - Basic Plotting
+  - Data Importing [Example File](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day1example.txt)
   - Resources
 
 [Day 1 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW1)
