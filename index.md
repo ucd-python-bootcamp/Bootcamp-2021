@@ -31,8 +31,17 @@ Python is very versatile in its applications. The homework will focus on impleme
   - Basic Plotting
   - Data Importing [Day1example.dat](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day1example.dat)
   - Resources
-
 [Day 1 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW1)
+
+* Day 2
+  - Idexing lists
+  - Arrays
+  - Nested Loops
+  - Conditionals
+  - Functions
+  - More Plotting
+[Day 2 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW2)
+
 
 ## Additional Resources
 
