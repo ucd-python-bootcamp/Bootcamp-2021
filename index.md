@@ -24,7 +24,7 @@ Python is very versatile in its applications. The homework will focus on impleme
 ## Agenda
 * Day 1 [Recording](https://www.youtube.com/watch?v=vG3ZdjM6D0A) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day1_Lecture.ipynb)
   - Introduction: What are Coding and Python?
-  - Variables, basic operations and print
+  - Variables, Basic Operations and Print
   - Lists
   - Loops
   - NumPy
