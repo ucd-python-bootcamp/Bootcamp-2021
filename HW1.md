@@ -25,5 +25,5 @@ Here is a csv file that contains all of the countires that competed in the 2018 
 
 [.ip file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay1.py)
 
-
+[Day1HWplot.png](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/Day1HWplot.png)
 
