@@ -38,8 +38,8 @@ Python is very versatile in its applications. The homework will focus on impleme
 * Day 2
   - Idexing lists
   - Arrays
-  - Nested Loops
   - Conditionals
+  - Nested Loops
   - Functions
   - More Plotting
 
