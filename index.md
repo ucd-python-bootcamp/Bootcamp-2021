@@ -46,6 +46,8 @@ Python is very versatile in its applications. The homework will focus on impleme
 [Day 2 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW2)
 
 
+[Day 2 (Advanced Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW2_ADV)
+
 ## Additional Resources
 
 ### Downloading Python Offline
