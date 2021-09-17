@@ -48,6 +48,27 @@ Python is very versatile in its applications. The homework will focus on impleme
 
 [Day 2 (Advanced) Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW2_ADV)
 
+
+* Day 3
+  - Real reserach application of Python
+    - Finding Other and Using Other Libraries
+       - Pandas, Sklearn, UMAP
+    - Thought Process of Coding and Data Processing
+
+  - Debugging Tutorial
+    - Good Coding Practices
+    - Types of Erroes
+    - Using Resources
+    - Print Statements
+    - Test Cases
+    - 
+[Day 3 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW3)
+
+
+[Day 3 (Advanced) Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW3_ADV)
+
+
+
 ## Additional Resources
 
 ### Downloading Python Offline
