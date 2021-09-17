@@ -35,7 +35,7 @@ Python is very versatile in its applications. The homework will focus on impleme
 [Day 1 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW1)
 
 
-* Day 2
+* Day 2 [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day2_Lecture.ipynb)
   - Idexing lists
   - Arrays
   - Conditionals
