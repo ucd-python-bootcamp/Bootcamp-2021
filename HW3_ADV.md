@@ -12,13 +12,13 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
   
 ### Assignment
   - This part of the project is only meant to be completed once the [base homework for Day 3](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW3) has been completed. If you have not done so yet, go back and complete this. 
-  - This assignment is not actually designed for students to finish this in-person. This is a bonus challenge for those that want to deepend their skills and understanding.
+  - This assignment is not actually designed for students to finish in-person. This is an extra challenge for those that want to deepen their skills and understanding.
   - Your solution for Day 2 (ADV) should already be able to parse all of the data from the file. We will only be working with the data from the countries that medalled today.
   - In base homework, we looked at each variable independently, but now we want to fit a multivariable regression in the form of:
   ```
   medals = A*x + B*y + C*z + D
   ```
-  - We will the `LinearRegression` clas  from `sklearn.linear_model`. To import only the desired class and not the entire library, use the following command:
+  - We will the `LinearRegression` class from `sklearn.linear_model`. To import only the desired class and not the entire library, use the following command:
   ```
   from sklearn.linear_model import LinearRegression
   ```
@@ -60,3 +60,6 @@ Finally, now that we have the coefficients and intercept, let's see if we can tr
      - Congrats you have finished the most challenging part of this tutorial! Hopefully you have better understanding of libraries, classes, and how to teach yourself.
     
   
+[.ipynb file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay3_ADV.ipynb)
+
+[.py file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay3_ADV.py)
