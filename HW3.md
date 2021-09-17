@@ -5,26 +5,26 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
 
 ### Initial Instructions:
   1. Download the csv file from the link above. 
-  2. Open your Day 2 HW Colab notebook (or the solutiion posted from Day 2 if you were unable to complete it). Change the code to intake the new file
+  2. Open your Day 2 HW Colab notebook (or the solutiion posted from Day 2 if you were unable to complete it). Change the code to intake the new file.
   3. Click the file icon on the left toolbar, then click on the upload icon (the button on the left).
   4. Choose the new .csv file to upload in order to import the data.
   5. Here's the actual homework!
   
 ### Assignment
-  - Your solutiion for Day 2 should already be able to parse all of the data from the file.
+  - Your solution for Day 2 should already be able to parse all of the data from the file.
   - Let's examine three factors: GDP per capita, latitude, and raw population, and see how each of these affects medal results. While this is a complex question, we are going to assume a linear relationship for the sake of simplicity.
   - Let's start with GDP per capita. There are many ways to do this next step, but one of the easiest is to import the `scipy.stats` package and use the `linregress()` function
     ```
     import scipy.stats as ss
     ```
     - Take a look at the [documentation for linregress](https://docs.scipy.org/doc/scipy-0.19.0/reference/generated/scipy.stats.linregress.html). Particularly the examples may help.
-    - What should we input into the function (what goes in the parentheses)? What will be the output and how many should we expect?
+    - What should we input into the function? What will be the output and how many should we expect?
   - Once you have successfully fit the function, we need to plot our results. Make a scatter plot with the x (GDP per capita) and y (medal total) values.
   - To the scatter plot, let's add our fit line. 
     1) To do this you will need to write a linear function. Note, the order of the variables will be important.
        ```
        def fit_eq(x, m, b):
-       return (m*x)+b
+         return (m*x)+b
        ```
     2) Create a list of x values to plot (`np.linspace()` may be helpful) and input them into the function you just wrote.
     3) Make sure you are using the slope and intercept generated from the `ss.linregress()`.
