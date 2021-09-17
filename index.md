@@ -41,7 +41,7 @@ Python is very versatile in its applications. The homework will focus on impleme
   - Conditionals
   - Nested Loops
   - Functions
-  - More Plotting [finances.dat](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day1example.dat)
+  - More Plotting [finances.dat](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/finances.dat)
 
 [Day 2 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW2)
 
