@@ -23,3 +23,9 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
   - In Day 3 we will delve into using more libraries and do more data analysis.
   
 ## Answer
+
+[.ipynb file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay2.ipynb)
+
+[.py file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay2.py)
+
+[plot](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/Day2_plot.png)
