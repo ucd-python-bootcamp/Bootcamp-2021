@@ -61,7 +61,7 @@ Python is very versatile in its applications. The homework will focus on impleme
     - Using Resources
     - Print Statements
     - Test Cases
-    - 
+    
 [Day 3 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW3)
 
 
