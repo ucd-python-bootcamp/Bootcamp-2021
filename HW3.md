@@ -35,3 +35,8 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
 If you would like more of a challenge, see the [advanced Day 3 Homework](). There, we will fit a multivariable function and use that model to predict the outcome of other Olympics. We will also explore how to use the Pandas package as well.
 
 ## Answer
+
+[.ipynb file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay3.ipynb)
+
+[.py file](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_solutions/HWDay3.py)
+
