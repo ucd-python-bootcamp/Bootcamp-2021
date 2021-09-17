@@ -28,15 +28,15 @@ Here is a csv file that contains all of the countires that medalled in the 2018 
    ```
    model = LinearRegression()
    ```
-   - Now we can always call back to this instance with the `model` variable. This is called creating an object.
-   - The documentation may be confusing, but in order to fit the data, you need to input the variables (GDP, populations and latitudes) and the output values (medal totals) into the function `model.fit()`.
+   - Now we can always call back to this instance with the `model` variable. We have just created an "object".
+   - The documentation may be confusing, but in order to fit the data, you need to input the variables (GDP, populations, and latitudes) and the output values (medal totals) into the function `model.fit()`.
    ```
    model.fit(X, medals)
    ``` 
-   - However, the variables (X) must be input as an Nx3 array, where N is number of data points. Right now, we have the variables in three separate lists. See if you can figure out (Google is your friend!) how to transform this data into an Nx3 array.
+   - However, the variables `X` must be input as an Nx3 array, where N is number of data points. Right now, we have the variables in three separate lists. See if you can figure out (Google is your friend!) how to transform this data into an Nx3 array.
       - The medal list is 1-dimensional so it can remain a list.
       
-   - Once that bit is done your fit is complete! Everything has been calculated. To access the results, the following lines will retrieve the values we are want from the `model` object:
+   - Once that step is done your fit is complete! Everything has been calculated. To access the results, the following lines will retrieve the values we are want from the `model` object:
    ```
    R_squared = model.score(X, y)
    coefficients = model.coef_
@@ -49,7 +49,7 @@ Finally, now that we have the coefficients and intercept, let's see if we can tr
    - Downlaod the [Day3CountryInfo2014_ADV.csv](https://ucd-python-bootcamp.github.io/Bootcamp-2021/HW_files/Day3CountryInfo2014_ADV.csv).
    - To parse the data from this file there are two ways: the `with open` procedure we have done before or with a library called `pandas`. Overall pandas is faster and easier to use once learned but may be harder for new students. If you would like to see an example of how to use `pandas` read this [documentation](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) and take a peek at the answer key below.
    - Once you've parsed the data, calculate medal total and GDP per capita for the new data.
-   - You can attempt this by either writing your own function manually, plugging in the coefficients and data for each country, or by using the `model.predict()` function.
+   - You can attempt this by either writing your own function manually, plugging in the coefficients and data for each country, or by using the `model.predict()` method (a method is a function that belongs to a class, in this case the class is LinearRegression).
      - `model.predict()` similar to `model.fit()` will take in an Nx3 array (X in example below) of variables and compute the medal totals. You'll need to get the 2014 data into the correct dimensions again.
      ```
      predictions = model.predict(X)
