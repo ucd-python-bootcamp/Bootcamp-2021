@@ -50,7 +50,7 @@ Python is very versatile in its applications. The homework will focus on impleme
 
 
 * Day 3
-  - Real reserach application of Python [Recording](https://youtu.be/BWrii5rXI2Y) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/mushroom_v2.ipynb), [Data File](agaricus-lepiota.csv.data)
+  - Real reserach application of Python [Recording](https://youtu.be/BWrii5rXI2Y) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/mushroom_v2.ipynb), [Data File](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/agaricus-lepiota.csv.data)
     - Finding Other and Using Other Libraries
        - Pandas, Sklearn, UMAP
     - Thought Process of Coding and Data Processing
