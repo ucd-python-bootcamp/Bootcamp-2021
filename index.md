@@ -80,5 +80,11 @@ One of the easiest ways to download python is through Anaconda. Anaconda is a Py
 
 Unlike Colab, there will be one text document without multiple cells (cells can be created). These files are saved as ".py" files instead of ".ipynb" and lack text boxes. The code syntax will be the same as Colab. To run the code, click the green "play" button at the top - all of the code in the document will be run at once instead of just a single cell.
 
+### [While Loops](https://www.youtube.com/watch?v=Ghz4YwOXtTA)
+    - We did not talk about while loops in this course, but they also have their own useful purposes, often times with a conditional.
+    - Not that infinite loops (getting stuck in a while loop without a way to exit) are a risk when using them!
+
+### [Classes](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+    - If you followed along through Day 3, we've hinted at the idea of object oriented programming and classes. There was not enough time to cover them in this workshop, but if you continue to explore Python they will be incredibly useful to understand and know how to implement.
 
 
