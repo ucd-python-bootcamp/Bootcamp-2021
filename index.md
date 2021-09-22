@@ -2,12 +2,9 @@
 
 This three-day course is designed to prepare incoming (or experienced) graduate students with little to no coding experience for the coding demands that many graduate courses and research often require. The bootcamp will take place over **September 15th-17th from 6:30pm-8:30pm** on campus in the **Chemistry Building, Room 172**. This is a great opportunity to learn a new skill and meet other graduate students! Snacks and refreshments will be provided. Each session will begin with about an hour of demonstration to teach fundamental Python topics. This will be followed by time where students can work on an assignemnt with each other and ask questions to volunteers. The assignment each day will build off of the previous sessions so by the end you will have a complete Python project!
 
+Any questions about the content of this site should be directed to Nathan Yoshino (ndyoshino@ucdavis.edu).
+
 **Masks will be required!**
-
-
-## Signup
-
-Registration has concluded for the workshop this year. If you would still like to follow along, all of the lectures, discussion, and homework will be posted here after.
 
 
 ## Getting Started
@@ -49,8 +46,9 @@ Python is very versatile in its applications. The homework will focus on impleme
 [Day 2 (Advanced) Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW2_ADV)
 
 
-* Day 3
+* Day 3 
   - Real reserach application of Python [Recording](https://youtu.be/BWrii5rXI2Y) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/mushroom_v2.ipynb), [Data File](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/agaricus-lepiota.csv.data)
+  - Unfortunately, the screen was not recorded today, but you can still follow along by downloading and reading the .ipynb lecture notes.
     - Finding Other and Using Other Libraries
        - Pandas, Sklearn, UMAP
     - Thought Process of Coding and Data Processing
