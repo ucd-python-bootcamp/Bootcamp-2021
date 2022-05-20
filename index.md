@@ -19,7 +19,7 @@ Note: We will be using Python 3 (the latest version of Python) for this workshop
 Python is very versatile in its applications. The homework will focus on implementing fundamentals introduced in the lectures, working with data, and accessing Python libraries. There will be two homework levels, a standard assignment and an advanced assignment for those that want a challenge. The overall goal of the assignments will be to process data from the 2018 Winter Olympic Games and analyze what factors contribute to success. With the tools we learn, we can even create a model that tries to predict Olympic success in other years!
 
 ## Agenda
-* Day 1 [Recording](https://www.youtube.com/watch?v=vG3ZdjM6D0A) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day1_Lecture.ipynb)
+* Day 1 [Recording] ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day1_Lecture.ipynb)
   - Introduction: What are Coding and Python?
   - Variables, Basic Operations and Print
   - Lists
@@ -32,7 +32,7 @@ Python is very versatile in its applications. The homework will focus on impleme
 [Day 1 Homework Assignment](https://ucd-python-bootcamp.github.io/Bootcamp-2021//HW1)
 
 
-* Day 2 [Recording](https://www.youtube.com/watch?v=p2p9H1iHTa4) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day2_Lecture.ipynb)
+* Day 2 [Recording] ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Day2_Lecture.ipynb)
   - Idexing lists
   - Arrays
   - Conditionals
@@ -47,13 +47,13 @@ Python is very versatile in its applications. The homework will focus on impleme
 
 
 * Day 3 
-  - Real reserach application of Python [Recording](https://youtu.be/BWrii5rXI2Y) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/mushroom_v2.ipynb), [Data File](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/agaricus-lepiota.csv.data)
+  - Real reserach application of Python [Recording] ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/mushroom_v2.ipynb), [Data File](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/agaricus-lepiota.csv.data)
   - Unfortunately, the screen was not recorded today, but you can still follow along by downloading and reading the .ipynb lecture notes.
     - Finding Other and Using Other Libraries
        - Pandas, Sklearn, UMAP
     - Thought Process of Coding and Data Processing
 
-  - Debugging Tutorial [Recording](https://youtu.be/jAZf4rgKoLk) ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Python_Debugging.ipynb)
+  - Debugging Tutorial [Recording] ; [Lecture notes](https://ucd-python-bootcamp.github.io/Bootcamp-2021/Lecture_files/Python_Debugging.ipynb)
     - Good Coding Practices
     - Types of Erroes
     - Using Resources
